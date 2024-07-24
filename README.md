@@ -42,10 +42,11 @@ The chart indicates a dynamic evolution in the film industry over the decades. F
 various factors have influenced the number of movies released each year <br />
 
 This visualsion give us the number of films that were made over the years <br />
-we notice that 2017 was the year that were made a large numbers of films in it <br />
+we notice that 2002 was the year that were made a large numbers of films in it <br />
 
 
 ![image](https://github.com/user-attachments/assets/a4b5a159-d255-4690-91d9-39a0322d14dd)
+![image](https://github.com/user-attachments/assets/a1786e81-0f99-4b39-ba67-8d158329dbc8)
 
 
 second one :<br / >
@@ -60,11 +61,12 @@ from here we can notice that top 5 movies which achived high profits over the ye
 5- E.T. the Extra-Terrestrial <br />
 
 ![image](https://github.com/user-attachments/assets/4ff0048a-fc87-45c2-b837-6807761aa3fb)
+![image](https://github.com/user-attachments/assets/2f05ad93-e876-4f70-8151-dc4ccb68ebd5)
 
 
 third one : <br />
 The percentage of profit  <br />
-From the percentage we can know the percentage of profit overt the years as 2007 is the most year which movies made in it  so 2007 is the highest percentage of profit <br />
+From the percentage we can know the percentage of profit overt the years as 2002 is the most year which movies made in it  so 2007 is the highest percentage of profit <br />
 The chart indicates that movie profits can vary significantly from year to year, influenced by various factors including economic conditions, blockbuster releases, and market competition.
 The peak in 2007 highlights a particularly successful year for movie profits, while other years show more moderate gains
 
@@ -72,6 +74,8 @@ The peak in 2007 highlights a particularly successful year for movie profits, wh
 here it is the percetage over all years <br />
 
 ![image](https://github.com/user-attachments/assets/c6bc81f7-a514-403a-9aad-280fe7b7b4af)
+![image](https://github.com/user-attachments/assets/4774cdbd-09a8-4a86-9e55-6c8b3438c343)
+
 
 
 from our pivot table we can get top 6 years that make highest profit <br />
@@ -83,6 +87,8 @@ from our pivot table we can get top 6 years that make highest profit <br />
  so after analysis we will get the top 6 directors that made a large number of films and have high imdb score
 
  ![image](https://github.com/user-attachments/assets/9aafc89e-a7d7-4162-8198-2fa400fcbc6c)
+ ![image](https://github.com/user-attachments/assets/626d2c72-1dd4-4103-b9b2-e740dbf29d5a)
+
 
 
  the top 6 are : <br />
@@ -97,6 +103,8 @@ fifth:
 By analysis we can find the top 6 geners that made high prifit over the years :<br />
 
 ![image](https://github.com/user-attachments/assets/54dc4db0-06a2-48c6-966e-0b14b108668f)
+![image](https://github.com/user-attachments/assets/6802b540-1528-4b28-9889-e49c600402cb)
+
 
 
  so the top 6 are : <br />
@@ -110,6 +118,8 @@ By analysis we can find the top 6 geners that made high prifit over the years :<
 also we can know the number of geners pf movies that were done en each year <br />
 
 ![image](https://github.com/user-attachments/assets/c134a362-8d7c-4b39-848a-9fa617a4a95c)
+
+This analysis we can know the common geners in each year and know the facrors that help in the spreed over each year <br />
 
 
 Last one : <br />
